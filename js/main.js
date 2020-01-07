@@ -21,6 +21,5 @@ function removeShow() {
   tabContentItems.forEach(item => item.classList.remove('show'))
 }
 
-
 // Listen for tab click
 tabItems.forEach(item => item.addEventListener('click', selectItem));
