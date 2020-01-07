@@ -137,7 +137,7 @@ img {
 .tabs .container > div:hover {
   color: #fff;
   cursor: pointer;
-  /* border-bottom: var(--primary-color) 4px solid; */
+  border-bottom: var(--primary-color) 4px solid;
 
 }
 
@@ -333,7 +333,7 @@ img {
     line-height: 1;
   }
 
-  .showcase-conent p {
+  .showcase-content p {
     font-size: 1.5rem;
   }
 
